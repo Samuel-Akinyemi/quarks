@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600381569 source:c:\users\samuel\documents\clang\clang\main.cpp
+	"articles.h"
+	<iostream>
+	<string>
+
+1600381424 source:c:\users\samuel\documents\clang\clang\article.cpp
+	"articles.h"
+	<iostream>
+	<iomanip>
+
+1600381267 c:\users\samuel\documents\clang\clang\articles.h
+	<string>
+
